@@ -2,6 +2,12 @@
 
 > Built with Google AI Studio (Gemini 2.0 Flash) | Project for Intro to Generative AI
 
+#Agrify AI is a Generative AI project that verifies farming advice for smallholder farmers in Ghana & Nigeria.
+
+Built with Google AI Studio (Gemini 2.0 Flash) using System Instructions, Few-Shot Prompting, and Low Temperature (0.2) for safe, factual advice.
+
+It correctly flagged Coca-Cola for pests as DANGEROUS, planting maize before rains as DANGEROUS, and wet wood ash for snails as MIXED.
+
 ## The Problem
 Farmers in Ghana and Nigeria follow viral farming hacks from TikTok and WhatsApp that destroy crops, waste money, and ruin soil. There is no system to verify if farming advice is safe.
 
